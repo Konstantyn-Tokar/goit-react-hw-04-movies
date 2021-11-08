@@ -1,0 +1,6 @@
+.header {
+  box-sizing: content-box;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #c4c4c4;
+}

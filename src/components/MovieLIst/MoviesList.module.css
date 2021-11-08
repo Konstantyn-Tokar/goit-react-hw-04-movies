@@ -1,0 +1,19 @@
+.list {
+  list-style: initial;
+  text-align: left;
+  margin-left: 15px;
+}
+
+.item {
+  margin-bottom: 8px;
+}
+
+.title {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.text {
+  cursor: pointer;
+  display: ruby-text;
+}
