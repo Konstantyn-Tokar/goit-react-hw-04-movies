@@ -8,12 +8,17 @@
   margin-bottom: 8px;
 }
 
-.title {
-  margin-top: 15px;
-  margin-bottom: 15px;
-}
-
 .text {
   cursor: pointer;
   display: ruby-text;
+  display: inline-block;
+  text-decoration: none;
+  padding: 5px;
+  font-weight: 500;
+  color: rgb(66, 65, 68);
+  font-size: 18px;
+}
+
+.text:hover {
+  color: rgb(121, 70, 202);
 }
